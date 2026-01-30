@@ -5,9 +5,9 @@
 # Pedro López Gómez
 **Senior Java Consultant | Spring Boot & Microservices**
 
-📍 Mérida, Yucatán, MX | 🔗 [LinkedIn](https://linkedin.com/in/pedro-lopez) | 💻 [GitHub]([https://github.com/pedrolopez](https://github.com/ptrlopezgomez/ptrlopezgomez.github.io)) | 📧 ptr.lopezgomez@gmail.com
+📍 Mérida, Yucatán, MX | 🔗 [LinkedIn](https://linkedin.com/in/pedro-lopez) | 💻 [GitHub]([https://github.com/ptrlopezgomez/ptrlopezgomez.github.io]) | 📧 ptr.lopezgomez@gmail.com
 
-[![GitHub followers](https://img.shields.io/github/followers/pedrolopez?label=follow&style=social)](https://github.com/pedrolopez)
+[![GitHub followers](https://img.shields.io/github/followers/ptrlopezgomez?label=follow&style=social)](https://github.com/ptrlopezgomez)
 
 </div>
 
