@@ -3,7 +3,7 @@
 ![Header](https://via.placeholder.com/1200x300/0066CC/FFFFFF?text=Pedro+L%C3%B3pez+G%C3%B3mez)
 
 # Pedro López Gómez
-**Senior Java Consultant | Spring Boot & Microservices | Cloud-Native Architect**
+**Senior Java Consultant | Spring Boot & Microservices**
 
 📍 Mérida, Yucatán, MX | 🔗 [LinkedIn](https://linkedin.com/in/pedro-lopez) | 💻 [GitHub]([https://github.com/pedrolopez](https://github.com/ptrlopezgomez/ptrlopezgomez.github.io)) | 📧 ptr.lopezgomez@gmail.com
 
@@ -48,13 +48,12 @@ Senior Java Consultant with 19+ years building enterprise backends for banking, 
 - **Building HTTP APIs with Spring** - Coursera (2024)
 
 ## 💼 Currently Seeking
-Senior Java Developer / Architect roles (remote/hybrid) specializing in **microservices, Spring Boot, cloud-native architectures**. Open to USA/Europe opportunities.
+Senior Java Developer (remote/hybrid) specializing in **microservices, Spring Boot, cloud-native architectures**. Open to USA/Europe opportunities.
 
 ---
 
 <div align="center">
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/pedrolopez?label=Twitter)](https://twitter.com/pedrolopez)
 [![GitHub stars](https://img.shields.io/github/stars/pedrolopez?label=Stars)](https://github.com/pedrolopez)
 
 **¡Let's connect to build amazing software together! 🚀**
