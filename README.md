@@ -1,11 +1,9 @@
 <div align="center">
   
-![Header](https://via.placeholder.com/1200x300/0066CC/FFFFFF?text=Pedro+L%C3%B3pez+G%C3%B3mez)
-
-# Pedro López Gómez
+# Pedro Manuel López Gómez
 **Senior Java Consultant | Spring Boot & Microservices**
 
-📍 Mérida, Yucatán, MX | 🔗 [LinkedIn](https://linkedin.com/in/pedro-lopez) | 💻 [GitHub]([https://github.com/ptrlopezgomez/ptrlopezgomez.github.io]) | 📧 ptr.lopezgomez@gmail.com
+📍 Mérida, Yucatán, MX | 🔗 [LinkedIn](https://linkedin.com/in/pedro-lopez) | 💻 [GitHub](https://github.com/ptrlopezgomez) | 📧 ptr.lopezgomez@gmail.com
 
 [![GitHub followers](https://img.shields.io/github/followers/ptrlopezgomez?label=follow&style=social)](https://github.com/ptrlopezgomez)
 
@@ -25,14 +23,14 @@ Senior Java Consultant with 19+ years building enterprise backends for banking, 
 
 ## 📂 Featured Projects
 
-| **Project** | **Description** | **Tech Stack** | **Impact** |
-|-------------|-----------------|---------------|------------|
-| **Banking Microservices Migration** | Led migration of legacy monoliths to cloud-native architecture on AWS ECS and Kubernetes/OpenShift | Java 11–21, Spring Boot, Groovy, Kubernetes, AWS ECS | Reduced release cycles ~30%, improved API latency for 10M+ transaction platforms, 99.9%+ uptime |
-| **High-Volume Financial APIs** | Designed RESTful APIs and microservices for core banking/insurance systems | Java 17, Spring Boot, Oracle PL/SQL, MongoDB, PostgreSQL | Optimized query performance +25% in high-volume financial systems |
-| **CI/CD Pipeline Automation** | Built comprehensive CI/CD pipelines across multi-environment releases | Jenkins, GitHub Actions, Docker, Maven | Cut deployment times from hours to <10 minutes, reduced manual errors |
-| **Insurance Policy Management** | Developed Spring Boot backends processing 1M+ daily policies with real-time validation | Spring Boot, Drools Rules Engine, Oracle 8i/9i PL/SQL | Improved operational efficiency 40% with Python analytics |
-| **Enterprise Observability Stack** | Implemented monitoring frameworks reducing incident resolution times | Splunk, Kibana, Grafana, Sumo Logic, Dynatrace, New Relic | Reduced MTTR from hours to <30 minutes across production systems |
-| **Global E-commerce Backend** | Delivered Struts/Java backends for PepsiCo's platform handling 100K+ daily orders | Java, Struts, Oracle, SQL Server, MySQL, PL/SQL | Optimized report generation 50%, managed 200+ critical incidents annually |
+| **Project** | **Description** | **Tech Stack**| 
+|-------------|-----------------|---------------|
+| **Rewards Microservices Support and Enhancement** | Built and enhanced microservices to support Reactive Front end Reward portal using cloud-native architecture on AWS ECS, Github actions | Java 11–21, Spring Boot, Groovy, AWS ECS |
+| **Healthcare Microservices Migration** | Migrated RESTful APIs and microservices for core banking/insurance systems | Using Java 6, 8 and 11, Spring Boot 2.x and 3.x, Oracle PL/SQL, MongoDB, PostgreSQL |
+| **CI/CD Pipeline Automation** | Built comprehensive CI/CD pipelines across multi-environment releases | Jenkins, GitHub Actions, Docker, Maven | Cut deployment times from hours to <10 minutes, reduced manual errors 
+| **Banking Insurances Policy Management** | Developed Spring Boot backends processing 1M+ daily policies with real-time validation | Spring Boot, Drools Rules Engine, Oracle 8i/9i PL/SQL | Improved operational efficiency 40% with Python analytics |
+| **Enterprise Observability Stack** | Implemented monitoring frameworks reducing incident resolution times | Splunk, Kibana, Grafana, Sumo Logic, Dynatrace, New Relic |
+| **Global E-commerce Backend** | Delivered Struts/Java backends for PepsiCo's platform handling 100K+ daily orders | Java, Struts, Oracle, SQL Server, MySQL, PL/SQL |
 
 ## 📈 Professional Experience
 
@@ -54,7 +52,7 @@ Senior Java Developer (remote/hybrid) specializing in **microservices, Spring Bo
 
 <div align="center">
 
-[![GitHub stars](https://img.shields.io/github/stars/pedrolopez?label=Stars)](https://github.com/pedrolopez)
+[![GitHub stars](https://img.shields.io/github/stars/ptrlopezgomez?label=Stars)](https://github.com/ptrlopezgomez)
 
 **¡Let's connect to build amazing software together! 🚀**
 
